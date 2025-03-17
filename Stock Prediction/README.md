@@ -4,7 +4,7 @@
 
 ```   
 
-├── Assignment3-intro.ipynb
+
 ├── README.md
 ├── img
 │   ├── bptt.png
